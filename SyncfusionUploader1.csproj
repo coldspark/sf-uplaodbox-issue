@@ -217,13 +217,7 @@
     <Content Include="Account\Web.config" />
     <Content Include="Scripts\ej\ej.web.all.min.js" />
     <Content Include="Scripts\ej\ej.webform.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.ar-AE.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.de-DE.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.en-US.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.es-ES.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.fr-FR.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.vi-VN.min.js" />
-    <Content Include="Scripts\ej\i18n\ej.culture.zh-CN.min.js" />
+    <Content Include="Scripts\ej\i18n\ej.culture.en-GB.min.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -436,14 +430,7 @@ FileUploadFeatures.aspx</DependentUpon>
       <DependentUpon>
 FileUploadFeatures.aspx</DependentUpon>
     </Compile>
-    <Content Include="Scripts\ej\l10n\ej.localetexts.ar-AE.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.de-DE.min.js" />
     <Content Include="Scripts\ej\l10n\ej.localetexts.en-GB.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.en-US.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.es-ES.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.fr-FR.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.vi-VN.min.js" />
-    <Content Include="Scripts\ej\l10n\ej.localetexts.zh-CN.min.js" />
     <Content Include="FileUpload\saveFiles.ashx" />
     <Content Include="FileUpload\removeFiles.ashx" />
     <Compile Include="FileUpload\removeFiles.ashx.cs">
